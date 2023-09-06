@@ -1,4 +1,6 @@
 ### Hi there 👋
+#### Я учусь в политехе на направлении Радиотехника в группе 4931101/30002
+
 
 <!--
 **korovinaen/korovinaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
